@@ -1,4 +1,7 @@
 name: colors
+version: 0.0.1
+author: Justin Fagnani <justin@fagnani.com>
 description: A library for representing and maniuplating colors
+homepage: https://github.com/justinfagnani/colors.dart
 dev_dependencies:
   unittest: '>=0.10.0 <1.0.0'
